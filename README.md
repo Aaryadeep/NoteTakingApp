@@ -1,5 +1,3 @@
-# Create the README.md content for Aaryadeep's NoteTakingApp project
-readme_content = """
 # 📓 NoteTakingApp
 
 A powerful Note-taking app built using **MVVM architecture** with **fragments** and **navigation graph**. This app provides a smooth user experience for creating, editing, managing, and searching notes.
