@@ -13,3 +13,8 @@ Alert box before deleting notes to prevent accidental deletion of note.
 
 <img src="https://github.com/user-attachments/assets/b815fa8c-836e-4ce6-a4c3-d6a5e5412e8c" width="300" height="500">
 
+Functionality to search for notes by title.
+
+<img src="https://github.com/user-attachments/assets/661520a0-9955-4a90-8d69-5785e4565e2f" width="300" height="500">
+
+
