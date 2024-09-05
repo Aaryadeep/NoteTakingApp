@@ -44,7 +44,7 @@ A powerful Note-taking app built using **MVVM architecture** with **fragments** 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/NoteTakingApp.git
+   git clone https://github.com/Aaryadeep/NoteTakingApp.git
    ```
 2. Open the project in Android Studio
 
